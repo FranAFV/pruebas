@@ -1,1 +1,6 @@
-{dolar:1.2,libra:0.8,yen:120.0,realBrasileño:3.5}
+{
+	"dolar": 1.2,
+	"libra": 0.8,
+	"yen": 120.0,
+	"realBrasileño": 3.5
+}
